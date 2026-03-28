@@ -1,2 +1,3 @@
 # Software-Engineering-State-Exam-Notes
-All my theoretical work for the preparation for the SE state exam.
+
+<img src="Cover_DI_SE_Notes.jpg"/>
